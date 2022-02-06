@@ -10,4 +10,4 @@ To run the compiler you have to follow these steps
 
 The program should print `www.nicolo.io`.
 
-**Currently only supported on Darwin ARM64 systems. That is, if you are running OSX on an apple silicon chip, can run it!**
+**Currently only supported on Darwin ARM64 systems. That is, if you are running OSX on an apple silicon chip, you can run it!**
