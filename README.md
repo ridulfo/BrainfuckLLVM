@@ -11,6 +11,28 @@ To run the compiler you have to follow these steps
 
 The program should print `www.nicolo.io`.
 
-For help: `python brainfuck.py --help`
+### Help
+
+`python brainfuck.py --help`
+```
+NAME
+    brainfuck.py
+
+SYNOPSIS
+    brainfuck.py <flags>
+
+FLAGS
+    --input_file=INPUT_FILE
+        Type: Optional[]
+        Default: None
+    --input_code=INPUT_CODE
+        Type: Optional[]
+        Default: None
+    --tape_length=TAPE_LENGTH
+        Default: 100
+    --output_file=OUTPUT_FILE
+        Type: Optional[]
+        Default: None
+```
 
 **Currently only supported on Darwin ARM64 systems. That is, if you are running OSX on an apple silicon chip, you can run it!**
