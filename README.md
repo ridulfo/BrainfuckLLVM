@@ -1,6 +1,8 @@
 # Brainfuck LLVM
 A LLVM compiler for the esoteric programming language brainfuck.
 
+Here is a [gist](https://gist.github.com/nicoloridulfo/3a97bc4692607ad5a351e3c7d84624a4) showing the LLVM IR.
+
 To run the compiler you have to follow these steps
 
 1. Create a conda env and install the python libraries `llvmlite` and `fire`.
