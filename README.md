@@ -1,7 +1,7 @@
 # Brainfuck LLVM
 A LLVM compiler for the esoteric programming language brainfuck.
 
-Here is a [gist](https://gist.github.com/nicoloridulfo/3a97bc4692607ad5a351e3c7d84624a4) showing the LLVM IR.
+Here is a [gist](https://gist.github.com/ridulfo/3a97bc4692607ad5a351e3c7d84624a4) showing the LLVM IR.
 
 To run the compiler you have to follow these steps
 
